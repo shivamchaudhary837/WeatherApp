@@ -38,7 +38,7 @@ Welcome to the Weather App repository! This application is a user-friendly weath
 
 ## Credits
 
-The Weather App is developed by [Shivam Chaudhary]. It utilizes the OpenWeatherMap.org API for weather data retrieval.
+The Weather App is developed by Shivam Chaudhary. It utilizes the OpenWeatherMap.org API for weather data retrieval.
 
 ## Feedback and Contributions
 
